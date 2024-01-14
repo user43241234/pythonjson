@@ -1,0 +1,1 @@
+Hello! This is a json data writer. Feel free to edit the code files as much as you want. Remeber, you are only supposed to run pg.py. You need the python app on windows for this or a software development program.
